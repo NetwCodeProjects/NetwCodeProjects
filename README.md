@@ -9,7 +9,7 @@ Strong experience with security engineering and development.
 
 ## 🛠️ Tech Stack
 
-* <details>
+<details>
   <summary>💻 Programming Languages:</summary>
 
   | Languages |
@@ -25,9 +25,9 @@ Strong experience with security engineering and development.
   | JavaScript|
   | Python    |
 
-  </details>
+</details>
 
-* <details>
+<details>
   <summary>📊 Security Monitoring:</summary>
 
   | Tools                            |
@@ -49,7 +49,10 @@ Strong experience with security engineering and development.
   | Ansible                         |
   | XDR                             |
 
-  </details>
-* 🛡️ Red Team TTPs: `Burp Suite | Nmap | Injection`
-* 🛢️ Databases: `MySQL | MongoDB | AWS DynamoDB`
-* 🚀 Other: `Git | Kali Linux | AWS, GCP, AZURE | Lambda, S3, EC2`
+</details>
+
+🛡️ Red Team TTPs: `Burp Suite | Nmap | Injection`
+
+🛢️ Databases: `MySQL | MongoDB | AWS DynamoDB`
+
+🚀 Other: `Git | Kali Linux | AWS, GCP, AZURE | Lambda, S3, EC2`
