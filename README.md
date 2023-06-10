@@ -52,4 +52,4 @@ Strong experience with security engineering and development.
   </details>
 * 🛡️ Red Team TTPs: `Burp Suite | Nmap | Injection`
 * 🛢️ Databases: `MySQL | MongoDB | AWS DynamoDB`
-* 🚀 Other: `Git | Kali Linux | AWS, GCP, AZURE | Lambda`
+* 🚀 Other: `Git | Kali Linux | AWS, GCP, AZURE | Lambda, S3, EC2`
