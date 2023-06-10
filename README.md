@@ -53,14 +53,3 @@ Strong experience with security engineering and development.
 * 🛡️ Red Team TTPs: `Burp Suite | Nmap | Injection`
 * 🛢️ Databases: `MySQL | MongoDB | AWS DynamoDB`
 * 🚀 Other: `Git | Kali Linux | AWS, GCP, AZURE | Lambda`
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=netwcodeprojects&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netwcodeprojects&theme=tokyonight)](https://github.com/netwcodeprojects/github-readme-stats)
-
-## 💬 Let's Connect!
-
-Feel free to reach out to me for discussions on cybersecurity, programming, and collaborations.
-
