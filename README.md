@@ -2,8 +2,7 @@
 
 ![Levi AOT](https://c.tenor.com/xroYgJSSB4UAAAAC/tenor.gif)
 
-Led security operations effectively, defending against active attacks. 
-Strong experience with security engineering and development.
+8 years of cybersecurity experience. 
 <!--
 ## 🛠️ Tech Stack
 
