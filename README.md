@@ -2,7 +2,6 @@
 
 ![Levi AOT](https://c.tenor.com/xroYgJSSB4UAAAAC/tenor.gif)
 
-8 years of cybersecurity experience. 
 <!--
 ## 🛠️ Tech Stack
 
