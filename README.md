@@ -6,7 +6,7 @@
 
 Led security operations effectively, defending against active attacks. 
 Strong experience with security engineering and development.
-
+<!--
 ## 🛠️ Tech Stack
 
 <details>
@@ -55,4 +55,4 @@ Strong experience with security engineering and development.
 
 🛢️ Databases: `MySQL | MongoDB | AWS DynamoDB`
 
-🚀 Other: `Git | Kali Linux | AWS, GCP, AZURE | Lambda, S3, EC2`
+🚀 Other: `Git | Kali Linux | AWS, GCP, AZURE | Lambda, S3, EC2`-->
