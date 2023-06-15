@@ -1,4 +1,3 @@
-## Security Engineer | Cloud Security Engineer | DevOps Engineer | Cyber Security Analyst
 
 ![Levi AOT](https://c.tenor.com/xroYgJSSB4UAAAAC/tenor.gif)
 
